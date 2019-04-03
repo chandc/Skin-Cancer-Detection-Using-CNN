@@ -1,6 +1,4 @@
-Skin Cancer Capstone_Sept24.pdf - project report
-Udacity ML Engineer  Capstone Proposal.pdf - approval proposal
-Reviewer's comments: https://review.udacity.com/?utm_campaign=ret_000_auto_ndxxx_submission-reviewed&utm_source=blueshift&utm_medium=email&utm_content=reviewsapp-submission-reviewed&bsft_clkid=8ccbc573-8c83-4894-ba62-8022923ce038&bsft_uid=fec8a6f6-33c1-49f5-8436-c6d7238375d4&bsft_mid=7d439f83-791d-4953-9477-b27e47562ce2&bsft_eid=6f154690-7543-4582-9be7-e397af208dbd&bsft_txnid=3fc8293b-ea71-42aa-a102-9d88384b2227#!/reviews/1422085
+####All the necessary data files and Juypter notebook files are provided in this repository.
 
 
 
